@@ -22,7 +22,8 @@ interface inspired by FL Studio and Capcut
 <kbd>Space</kbd> - play/pause  
 <kbd>Enter</kbd> - restart  
 <kbd>N</kbd> - new clip  
-<kbd>Delete</kbd> - delete clip
+<kbd>Delete</kbd> - delete clip  
 <kbd>Ctrl</kbd>+<kbd>D</kbd> - duplicate last clip  
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>D</kbd> - duplicate selected clip  
 <kbd>,</kbd> / <kbd>.</kbd> - previous/next clip
+<kbd>←</kbd> / <kbd>→</kbd> - back/forward measure
