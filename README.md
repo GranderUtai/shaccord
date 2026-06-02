@@ -6,10 +6,9 @@ interface inspired by FL Studio and Capcut
 - realtime chord rendering
 - timeline
 - playback camera
-- stave system
+- staves
 - theme editor
-- chordonym support (early)
-- save/load projects
+- save/load projects obviously
 
 ## what this version does _Not_ have that you might expect
 - cut/copy/paste
@@ -36,7 +35,7 @@ and some basic ones like \
 <kbd>Ctrl</kbd>+<kbd>S</kbd> - save \
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd> - save as
 
-## Formula syntax
+### Formula syntax
 to create chords you have[^1] to express them via a formula. its not that hard so i hope you can easily understand it\
 some examples are: `2+4+` for AhChyMy, `3+2+(2+3+)`[^2] for AhChyScyLyChyli, etc\
 `2+`: first you write the dimension number, then the sign (`+`/`-`). notes like this branch off the root note.\
@@ -49,13 +48,6 @@ some examples are: `2+4+` for AhChyMy, `3+2+(2+3+)`[^2] for AhChyScyLyChyli, etc
 `2+ 4^3v`: use `^` and `v` to offset the chord by an interval\
 spaces are ignored and may be used for readability
 
-## Formula usage in staves
-declare an interval and an offset. lets take `2+ 4^` for an exmaple, as its very common.\
-`2+` is the **interval**, so there will be a line every Chy starting from Ah in both directions\
-`4^` is the **offset**, meaning this will move all stave lines by My.\
-` ` leave the stave formula field empty to make a single Ah stave line
-
-
 ### Note attribute list
 `/` - mute (dotted note) \
 `'` - tension (blue note) \
@@ -65,3 +57,9 @@ declare an interval and an offset. lets take `2+ 4^` for an exmaple, as its very
 
 [^1]: Nafchaclap/chordonym support planned
 [^2]: after a future fix, you will be able to put ()s midway through sigh chains, so `3+2+(3+)+` would be valid
+
+## Formula usage in staves
+declare an interval and an offset. lets take `2+ 4^` for an exmaple, as its very common.\
+`2+` is the **interval**, so there will be a line every Chy starting from Ah in both directions\
+`4^` is the **offset**, meaning this will move all stave lines by My.\
+` ` leave the stave formula field empty to make a single Ah stave line
