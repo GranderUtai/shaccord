@@ -1,5 +1,5 @@
 # Shaccord
-Microtonal chord visualisation program based on L4mplight's works
+Microtonal chord visualisation program based on L4mplight's works  
 interface inspired by FL Studio and Capcut
 
 ## Features
