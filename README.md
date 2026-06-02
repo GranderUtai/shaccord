@@ -6,7 +6,7 @@ interface inspired by FL Studio and Capcut
 - theme editor
 - i meannn
 
-## what <i>Not</i> to expect in this version
+## what this version does <i>Not</i> have what you might except:
 - rendering
 - stability
 - clip dragging (use selection then ctrl+shift+D)
