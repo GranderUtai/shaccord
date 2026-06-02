@@ -31,7 +31,7 @@ interface inspired by FL Studio and Capcut
 <kbd>,</kbd> / <kbd>.</kbd> - previous/next clip \
 <kbd>←</kbd> / <kbd>→</kbd> - back/forward measure \
 and some basic ones like \
-<kbd>Ctrl</kbd>+<kbd>N</kbd> - save \
+<kbd>Ctrl</kbd>+<kbd>N</kbd> - new project \
 <kbd>Ctrl</kbd>+<kbd>S</kbd> - save \
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd> - save as
 
