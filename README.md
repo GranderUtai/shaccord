@@ -1,6 +1,8 @@
 # Shaccord
 Microtonal chord visualisation program based on L4mplight's works  
 interface inspired by FL Studio and Capcut
+> [!CAUTION]
+> as this is a prerelease, it might crash anytime so save super frequently. also files made in this version may be incompatible with future versions
 
 ## Features
 - realtime chord rendering
