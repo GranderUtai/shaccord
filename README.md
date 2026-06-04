@@ -4,6 +4,9 @@ interface inspired by FL Studio and Capcut
 > [!CAUTION]
 > as this is a prerelease, it might crash anytime so save super frequently. also files made in this version may be incompatible with future versions
 
+> [!IMPORTANT]
+> for now you can only load projects, audio and themes by *dragging* the file *on the window*
+
 ## Features
 - realtime chord rendering
 - timeline
