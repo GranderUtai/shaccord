@@ -68,5 +68,5 @@ declare an interval and an offset. lets take `2+ 4^` for an exmaple, as its very
 `2+` is the **interval**, so there will be a line every Chy starting from Ah in both directions\
 `4^` is the **offset**, meaning this will move all stave lines by My.\
 of course, you can mix everything up: `2+3- 5^4v`, `6+2^^^1-3v5v`, and it would still work, but those are some absurd examples i dont think anyones going to genuinely use those\
-` ` leave the stave formula field empty to make a single Ah stave line
+` ` leave the stave formula field empty to make a single Ah stave line\
 enter `R` to make a wide one. experimentle
