@@ -44,8 +44,8 @@ and some basic ones like \
 <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>S</kbd> - save as
 
 ## Formula syntax
-to create chords you have[^1] to express them via a formula. its not that hard so i hope you can easily understand it\
-some examples are: `2+4+` for AhChyMy, `3+2+(2+3+)`[^2] for AhChyScyLyChyli, etc\
+to create chords you have[^1] to express them via a formula.[^2] its not that hard so i hope you can easily understand it\
+some examples are: `2+4+` for AhChyMy, `3+2+(2+3+)`[^3] for AhChyScyLyChyli, etc\
 `2+`: first you write the dimension number, then the sign (`+`/`-`). notes like this branch off the root note.\
 `2+(3-)`: use ()s to inquire nesting. you can leave the ( unclosed if theres no more stuff after it\
 `2+++`: reduplicate the sign, as a shorthand for `2+(2+(2+`\
@@ -63,8 +63,9 @@ spaces are ignored and may be used for readability
 `>` - bass (triangle) \
 `<` - rbass (triangle, _but from the right side_)
 
-[^1]: Nafchaclap/chordonym support planned
-[^2]: after a future fix, you will be able to put ()s midway through sigh chains, so `3+2+(3+)+` would be valid
+[^1]: Visual editor akin to Ish's is planned
+[^2]: Nafchaclap/chordonym support planned
+[^3]: after a future fix, you will be able to put ()s midway through sigh chains, so `3+2+(3+)+` would be valid
 
 ### Formula usage in staves
 declare an interval and an offset. lets take `2+ 4^` for an exmaple, as its very common.\
