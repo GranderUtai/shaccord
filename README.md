@@ -7,6 +7,9 @@ interface inspired by FL Studio and Capcut
 > [!IMPORTANT]
 > for now you can only load projects, audio and themes by *dragging* the file *on the window*
 
+> [!WARNING]
+> **load any audio first** before editing to prevent most issues.
+
 ## Features
 - realtime chord rendering
 - timeline
